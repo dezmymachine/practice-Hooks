@@ -1,4 +1,3 @@
-// Home.jsx
 import React from "react";
 import UseFetch from "../hooks/UseFetch";
 import errorimage from "../assets/error.svg";

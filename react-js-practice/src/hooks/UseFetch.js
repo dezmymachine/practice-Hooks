@@ -1,4 +1,3 @@
-// UseFetch.jsx
 import { useState, useEffect } from "react";
 
 const UseFetch = (url) => {

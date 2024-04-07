@@ -1,4 +1,3 @@
-// BookList.jsx
 import React from "react";
 
 const BookList = ({ books }) => {
