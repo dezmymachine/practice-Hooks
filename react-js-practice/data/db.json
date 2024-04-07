@@ -1,63 +1,74 @@
 {
-    "books":
-    [{
+  "books": [
+    {
+      "id": 0,
       "name": "Dune",
       "author": "Frank Herbert",
       "year": "1965",
-      "id":0
+      "description": "A science fiction epic set in a distant future where noble houses vie for control of the desert planet Arrakis, the only known source of the valuable spice melange."
     },
     {
+      "id": 1,
       "name": "Foundation",
       "author": "Isaac Asimov",
       "year": "1951",
-      "id":1
+      "description": "The first book in the Foundation series, depicting the fall of the Galactic Empire and the efforts to shorten the ensuing dark age."
     },
     {
+      "id": 2,
       "name": "1984",
       "author": "George Orwell",
       "year": "1949",
-      "id":2
+      "description": "A dystopian novel set in a totalitarian society ruled by Big Brother, where individuality and freedom of thought are suppressed."
     },
     {
+      "id": 3,
       "name": "Brave New World",
       "author": "Aldous Huxley",
       "year": "1932",
-      "id":3
+      "description": "A satirical novel depicting a futuristic world where society is controlled through genetic engineering, psychological conditioning, and the use of mood-altering drugs."
     },
     {
+      "id": 4,
       "name": "Fahrenheit 451",
       "author": "Ray Bradbury",
       "year": "1953",
-      "id":4
+      "description": "A dystopian novel set in a future society where books are outlawed and 'firemen' burn any that are found."
     },
     {
+      "id": 5,
       "name": "The Hitchhiker's Guide to the Galaxy",
       "author": "Douglas Adams",
       "year": "1979",
-      "id":5
+      "description": "A comedic science fiction series following the misadventures of Arthur Dent, a human who is one of the last surviving members of Earth, and his alien friend Ford Prefect."
     },
     {
+      "id": 6,
       "name": "Neuromancer",
       "author": "William Gibson",
       "year": "1984",
-      "id":6
+      "description": "A cyberpunk novel set in a future where cyberspace, artificial intelligence, and multinational corporations play central roles in society."
     },
     {
+      "id": 7,
       "name": "Ender's Game",
       "author": "Orson Scott Card",
       "year": "1985",
-      "id":7
+      "description": "A science fiction novel following the story of Ender Wiggin, a young boy who is recruited by the military to attend Battle School and train to fight against an alien species known as the Formics."
     },
     {
+      "id": 8,
       "name": "The War of the Worlds",
       "author": "H.G. Wells",
       "year": "1898",
-      "id":8
+      "description": "A classic science fiction novel depicting an invasion of Earth by Martians and the ensuing struggle for survival."
     },
     {
+      "id": 9,
       "name": "Snow Crash",
       "author": "Neal Stephenson",
       "year": "1992",
-      "id":9
-    }]
+      "description": "A cyberpunk novel set in a future America where the government has largely collapsed, and the Mafia controls most territories, with the main character, Hiro Protagonist, attempting to uncover a new drug called Snow Crash."
+    }
+  ]
 }
